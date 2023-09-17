@@ -1,0 +1,27 @@
+h2 {
+    color: aqua;
+}
+
+#head {
+    color: brown;
+}
+
+#about {
+    font-size: 15px;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-green {
+    color: green;
+}
